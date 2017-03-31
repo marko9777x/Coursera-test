@@ -1,2 +1,1 @@
-# Coursera-test
-Test repo for coursera
+# My first web page
